@@ -1,4 +1,4 @@
-Welcome to your new dbt project!
+DBT Project with Data Mart, Staging, and examples.
 
 ### Using the starter project
 
